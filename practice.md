@@ -15,7 +15,7 @@ This is some <sup>superscript</sup> text
 <h4 id="heading-2-quotes">Here is a couple interesting quotes:</h4>
 
 ---
-> What doesn't kill you, simply makes you, stranger.
+> What doesn't kill you, simply makes you... stranger.
 ---
 <p>- Joker (The Dark Knight)</p>
 
