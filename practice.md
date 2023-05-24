@@ -150,6 +150,19 @@ sequenceDiagram
 
 [![Hi Image](https://s3-eu-west-1.amazonaws.com/tpd/logos/609e3732d83b3800019451d5/0x0.png "Hand waving Hi with Hi text and fingers")](https://www.merriam-webster.com/dictionary/hi "Link to definition of Hi")
 
+## Summary
+
+1. Text Styles and Fontfaces
+2. Interesting Quotes
+  - By Joker
+  - By Steve Maraboli
+3. Useful Git Commands
+4. Code Snippets
+5. Table of some programming languages by year
+6. GeoJSON Map of Seneca College Newnham Campus
+7. Mermaid Sequence Diagram of our Communication
+8. Embedded Image
+
 # Closing Checklist
 
 - [x] Review GitHub Markdown
