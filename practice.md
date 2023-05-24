@@ -37,21 +37,28 @@ Here is a couple interesting quotes
 
 ``` javascript
 // javascript
-console.log("Hello! Welcome to Nate's GitHub Markdown Practice Document");
+function printGreeting() {
+  console.log("Hello! Welcome to Nate's GitHub Markdown Practice Document");
+}
 ```
 
 ``` java
 // Java
-System.out.println("Hello! Welcome to Nate's GitHub Markdown Practice Document");
+static void printGreeting() {
+  System.out.println("Hello! Welcome to Nate's GitHub Markdown Practice Document");
+}
 ```
 
 ``` python
 # Python
-print("Hello! Welcome to Nate's GitHub Markdown Practice Document")
+def printGreeting():
+  print("Hello! Welcome to Nate's GitHub Markdown Practice Document")
 ```
 
 ``` cpp
 // C++
-std::cout << "Hello! Welcome to Nate's GitHub Markdown Practice Document" << std::endl;
+void printGreeting() {
+  std::cout << "Hello! Welcome to Nate's GitHub Markdown Practice Document" << std::endl;
+}
 ```
 
