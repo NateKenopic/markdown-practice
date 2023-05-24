@@ -1,4 +1,4 @@
-# Welcome to my GitHub Markdown Practice Document
+<h1 id="heading-1-fonts">Welcome to my GitHub Markdown Practice Document</h1>
 
 Here is a paragraph with a **bolded** word and a _italicized_ word
 
@@ -12,7 +12,7 @@ This is some <sub>subscript</sub> text
 
 This is some <sup>superscript</sup> text
 
-Here is a couple interesting quotes
+<h4 id="heading-2-quotes">Here is a couple interesting quotes:</h4>
 
 ---
 > What doesn't kill you, simply makes you, stranger.
@@ -25,7 +25,7 @@ Here is a couple interesting quotes
 <p>- Steve Maraboli</p>
 
 
-<h2>Here are some commands that I use for transfering, updating, and pushing files to github</h2>
+<h2 id="heading-3-command">Here are some commands that I use for transfering, updating, and pushing files to github</h2>
 
 - `git clone repoURL`
 - `git add .`
@@ -33,7 +33,7 @@ Here is a couple interesting quotes
 - `git commit -m "Message Here"`
 - `git push`
 
-<h3>Here are code snippets to display a welcome text in multiple languages</h3>
+<h3 id="heading-4-code">Here are code snippets to display a welcome text in multiple languages</h3>
 
 ``` javascript
 // javascript
@@ -62,7 +62,7 @@ void printGreeting() {
 }
 ```
 
-## Here is a table with some programming languages and the year they were created
+<h2 id="heading-5-table">Here is a table with some programming languages and the year they were created</h2>
 
 | **Programming Language** | **Year** |
 | --- | --- |
@@ -80,7 +80,7 @@ void printGreeting() {
 | Typescript | 2012 |
 | Swift | 2014 |
 
-## Take a look at Seneca College's Largest Campus -- Newnham
+<h2 id="heading-6-map">Take a look at Seneca College's Largest Campus -- Newnham</h2>
 
 ```geojson
 {
@@ -130,7 +130,7 @@ void printGreeting() {
 ```
 
 
-## Heres a small sequence diagram showing our current communication!
+<h2 id="heading-7-diagram">Heres a small sequence diagram showing our current communication!</h2>
 
 ```mermaid
 sequenceDiagram
@@ -146,21 +146,21 @@ sequenceDiagram
 ```
 
 
-### Hi Image
+<h3>Hi Image</h3>
 
 [![Hi Image](https://s3-eu-west-1.amazonaws.com/tpd/logos/609e3732d83b3800019451d5/0x0.png "Hand waving Hi with Hi text and fingers")](https://www.merriam-webster.com/dictionary/hi "Link to definition of Hi")
 
 ## Summary
 
-1. Text Styles and Fontfaces
-2. Interesting Quotes
+1. Text Styles and Fontfaces [Go To](#heading-1-fonts)
+2. Interesting Quotes [Go To](#heading-2-quotes)
   - By Joker
   - By Steve Maraboli
-3. Useful Git Commands
-4. Code Snippets
-5. Table of some programming languages by year
-6. GeoJSON Map of Seneca College Newnham Campus
-7. Mermaid Sequence Diagram of our Communication
+3. Useful Git Commands [Go To](#heading-3-commands)
+4. Code Snippets [Go To](#heading-4-code)
+5. Table of some programming languages by year [Go To](#heading-5-table)
+6. GeoJSON Map of Seneca College Newnham Campus [Go To](#heading-6-map)
+7. Mermaid Sequence Diagram of our Communication [Go To](#heading-7-diagram)
 8. Embedded Image
 
 # Closing Checklist
