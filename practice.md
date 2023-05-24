@@ -156,7 +156,7 @@ sequenceDiagram
 2. Interesting Quotes [Go To](#heading-2-quotes)
    - By Joker
    - By Steve Maraboli
-3. Useful Git Commands [Go To](#heading-3-commands)
+3. Useful Git Commands [Go To](#heading-3-command)
 4. Code Snippets [Go To](#heading-4-code)
 5. Table of some programming languages by year [Go To](#heading-5-table)
 6. GeoJSON Map of Seneca College Newnham Campus [Go To](#heading-6-map)
