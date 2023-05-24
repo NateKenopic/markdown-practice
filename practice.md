@@ -128,3 +128,18 @@ void printGreeting() {
   ]
 }
 ```
+
+## Heres a small sequence diagram showing our current communication!
+
+```mermaid
+sequenceDiagram
+    participant You
+    You->>Nathan: Hi Nate, how are you?
+
+    Nathan-->>You: Great!
+    Nathan->>You: How are you?
+    You-->>Nathan: I'm great as well!
+    
+    Nathan->>You: How are you liking this practice doc so far?
+    You-->>Nathan: It's very good!
+```
