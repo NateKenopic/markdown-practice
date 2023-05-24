@@ -2,7 +2,7 @@
 
 Here is a paragraph with a **bolded** word and a _italicized_ word
 
-~~ This line is a mistake ~~
+~~This line is a mistake~~
 
 **This text is _important_ since it's all bold**
 
