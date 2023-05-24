@@ -148,5 +148,5 @@ sequenceDiagram
 
 ### Hi Image
 
-![Hi Image](https://s3-eu-west-1.amazonaws.com/tpd/logos/609e3732d83b3800019451d5/0x0.png "Hand waving Hi with Hi text and fingers")
+[![Hi Image](https://s3-eu-west-1.amazonaws.com/tpd/logos/609e3732d83b3800019451d5/0x0.png "Hand waving Hi with Hi text and fingers")](https://www.merriam-webster.com/dictionary/hi "Link to definition of Hi")
 
