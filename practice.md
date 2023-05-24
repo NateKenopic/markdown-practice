@@ -154,8 +154,8 @@ sequenceDiagram
 
 1. Text Styles and Fontfaces [Go To](#heading-1-fonts)
 2. Interesting Quotes [Go To](#heading-2-quotes)
-    - By Joker
-    - By Steve Maraboli
+  - By Joker
+  - By Steve Maraboli
 3. Useful Git Commands [Go To](#heading-3-commands)
 4. Code Snippets [Go To](#heading-4-code)
 5. Table of some programming languages by year [Go To](#heading-5-table)
