@@ -35,22 +35,22 @@ Here is a couple interesting quotes
 
 <h3>Here are code snippets to display a welcome text in multiple languages</h3>
 
-```javascript
+``` javascript
 // javascript
 console.log("Hello! Welcome to Nate's GitHub Markdown Practice Document");
 ```
 
-```java
+``` java
 // Java
 System.out.println("Hello! Welcome to Nate's GitHub Markdown Practice Document");
 ```
 
-```python
+``` python
 # Python
 print("Hello! Welcome to Nate's GitHub Markdown Practice Document")
 ```
 
-```cpp
+``` cpp
 // C++
 std::cout << "Hello! Welcome to Nate's GitHub Markdown Practice Document" << std::endl;
 ```
